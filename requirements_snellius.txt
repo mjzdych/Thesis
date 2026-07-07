@@ -1,0 +1,16 @@
+numpy
+pandas
+xarray
+netCDF4
+h5netcdf
+cftime
+matplotlib
+imageio
+scipy
+scikit-learn
+torch
+tqdm
+umap-learn
+cartopy
+shapely
+pyproj
