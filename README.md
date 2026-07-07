@@ -113,8 +113,8 @@ This notebook contains the end-to-end pipeline used for initial experiments.
 
 
 multi_head_training/
-    - train_multihead_*.py - exploratory multihead output head - not used in the final experimentation
+    - train_multihead_.py - exploratory multihead output head - not used in the final experimentation
 
-    - train_threehead_*.py - exploratory threehead output head - not used in the final experimentation 
+    - train_threehead_.py - exploratory threehead output head - not used in the final experimentation 
 
-    - train_onehead_*.py - onehead output head - used in the final experimentation 
+    - train_onehead_.py - onehead output head - used in the final experimentation 
